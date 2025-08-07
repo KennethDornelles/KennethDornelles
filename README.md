@@ -1,60 +1,97 @@
-### Olá visitante 👋
+# Olá, eu sou o Kenneth! 👋
 
-- 🔭Hoje trabalho com desenvolvimento Backend na CrossOften e Unimed João Pessoa
-- 🌱 Estudando Nest.js
-- 😄 Ele/Dele
+### Desenvolvedor Backend & Fullstack
 
+<p align="left">
+  <a href="mailto:kennetholusegun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kennethjesus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
+---
 
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-  
-```kotlin
-let Kenneth Olusegun = {
- let age = "27 anos"
- let level = "Pleno"
-}
-```
-## **GitHub Estatísticas**
-<div align="center">
-  <a href="https://github.com/KennethDornelles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennethdornelles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdornelles&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## Linguagens e Ferramentas:
+### Sobre Mim
 
-<div align="center">
-  <!-- Tecnologias básicas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-  
-  <!-- Backend & Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  
-  <!-- DevOps & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  
-  <!-- Outros -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</div>
-  
-  #### Rede Sociais!
-  <div> 
-  <a href="https://www.instagram.com/kennethdornellesde/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kennetholusegun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kennethjesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+Desenvolvedor com mais de 5 anos de experiência na construção de software, com especialização em desenvolvimento backend com **Node.js** e **NestJS**, e fullstack com **Angular**. Tenho sólida vivência no setor de **Fintech**, onde participei da criação de um banco cripto, focando na construção de APIs seguras, arquiteturas escaláveis e soluções de alta performance.
+
+Minha paixão é resolver problemas complexos e transformar desafios de negócio em software funcional e de alta qualidade. Atualmente, estou aprofundando meus conhecimentos acadêmicos cursando Engenharia de Software e Análise e Desenvolvimento de Sistemas.
+
+- 🔭 Atualmente trabalhando em projetos freelancer e buscando novos desafios como Desenvolvedor Backend/Fullstack.
+- 🌱 Aprendendo e aprofundando meus conhecimentos em arquiteturas orientadas a eventos e system design.
+- 📫 Como me encontrar: **kennetholusegun@gmail.com**
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="icon" width="65" height="65" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⭐ Estatísticas do GitHub
+
+![Estatísticas de Kenneth no GitHub](https://github-readme-stats.vercel.app/api?username=KennethDornelles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethDornelles&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+*(Nota: Lembre-se de substituir `KennethDornelles` pelo seu nome de usuário principal, se for o outro.)*
